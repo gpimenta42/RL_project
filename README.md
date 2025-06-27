@@ -1,5 +1,12 @@
 # Reinforcement Learning Project 
 
+- Alexandre Gonçalves, 20240738
+- Gaspar Pereira, 20230984
+- João Henriques, 20240499
+- Rita Wang, 20240551
+- Victoria Goon, 20240550
+  
+
 | Environment    | Algorithm   | Average Return | Std. Dev. | Success Rate |
 | -------------- | ----------- | -------------- | --------- | ------------ |
 | **LunarLander-v3** |           |                |           |              |
@@ -13,11 +20,7 @@
 |                | SAC         | 848.38 (sotch.)  | 145.29    | 30% (stoch.) |
 
 
+## CarRacing-V3 - SAC 
 https://github.com/user-attachments/assets/b09baaa2-e97f-419b-b060-9d86c31fa2dc
 
 
-- Alexandre Gonçalves, 20240738
-- Gaspar Pereira, 20230984
-- João Henriques, 20240499
-- Rita Wang, 20240551
-- Victoria Goon, 20240550 
