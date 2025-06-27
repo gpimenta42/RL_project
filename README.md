@@ -1,4 +1,4 @@
-Reinforcement Learning Project 
+# Reinforcement Learning Project 
 
 | Environment    | Algorithm   | Average Return | Std. Dev. | Success Rate |
 | -------------- | ----------- | -------------- | --------- | ------------ |
