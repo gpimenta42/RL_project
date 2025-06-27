@@ -27,6 +27,7 @@ https://github.com/user-attachments/assets/2ee71215-b8a5-434f-863c-0aa7584517cb
 
 
 ### CarRacing-V3 - SAC 
+Evaluated with a deterministic policy
 https://github.com/user-attachments/assets/b09baaa2-e97f-419b-b060-9d86c31fa2dc
 
 
