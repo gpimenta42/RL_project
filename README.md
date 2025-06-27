@@ -24,6 +24,7 @@
 ### LunarLander-v3 - Rainbow-DQN
 https://github.com/user-attachments/assets/2ee71215-b8a5-434f-863c-0aa7584517cb
 
+### LunarLander-v3 - PPO
 
 
 ### CarRacing-V3 - SAC 
