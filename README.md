@@ -25,7 +25,7 @@
 https://github.com/user-attachments/assets/2ee71215-b8a5-434f-863c-0aa7584517cb
 
 ### LunarLander-v3 - PPO
-(https://github.com/gpimenta42/RL_project/blob/main/videos/lunar_lander_PPO/lunar_PPO.mp4)
+https://github.com/user-attachments/assets/6e67f378-0b16-4831-87d4-ac8e0112b195
 
 ### CarRacing-V3 - SAC 
 Evaluated with a deterministic policy
