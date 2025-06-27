@@ -10,7 +10,7 @@
 |                | PPO         | 172.96         | 102.27    | 66.7%        |
 | **CarRacing-v3** |           |                |           |              |
 |                | PPO         | **874.59**     | 167.95    | **40%**      |
-|                | SAC         | 848.38         | 145.29    | 30% (stoch.) |
+|                | SAC         | 848.38 (sotch.)  | 145.29    | 30% (stoch.) |
 
 - Alexandre Gonçalves, 20240738
 - Gaspar Pereira, 20230984
