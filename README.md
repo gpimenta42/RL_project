@@ -14,11 +14,16 @@
 |                | Q-Learning  | -150.76        | 57.30     | 0%           |
 |                | SARSA       | -242.28        | 227.06    | 0%           |
 |                | DQN         | 195.57         | 71.07     | 67%          |
-|                | Rainbow DQN | **262.36**     | 49.81     | **93%**      |
+|                | Rainbow-DQN | **262.36**     | 49.81     | **93%**      |
 |                | PPO         | 172.96         | 102.27    | 66.7%        |
 | **CarRacing-v3** |           |                |           |              |
 |                | PPO         | **874.59**     | 167.95    | **40%**      |
 |                | SAC         | 848.38 (sotch.)  | 145.29    | 30% (stoch.) |
+
+
+### LunarLander-v3 - Rainbow-DQN
+https://github.com/user-attachments/assets/2ee71215-b8a5-434f-863c-0aa7584517cb
+
 
 
 ### CarRacing-V3 - SAC 
