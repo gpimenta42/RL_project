@@ -1,0 +1,10 @@
+Run ID: 20250622-013223
+Environment: CarRacing-v3
+Policy: CnnPolicy
+Buffer Size: 1000000
+Train Frequency: 1
+Gradient Steps: 1
+Learning Starts: 50000
+Batch Size: 256
+Entropy Coefficient: auto_0.01
+Learning_rate: 1e-4
