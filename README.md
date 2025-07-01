@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/eb7c8b9b-1531-4d06-a6be-0c2faa76a8c7
 
 
 ### CarRacing-V3 - SAC 
-Evaluated with a deterministic policy
+Evaluated with a stochastic policy
 
 https://github.com/user-attachments/assets/b09baaa2-e97f-419b-b060-9d86c31fa2dc
 
