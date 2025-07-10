@@ -7,12 +7,6 @@
 - Victoria Goon, 20240550
   
 ### Results
-Trained during 500,000 timesteps for each
-Evaluated for 30 episodes 
-Sucess definition: 
-- Lunar Lander: reward > 200
-- Car Racing: reward > 900
-
 
 | Environment    | Algorithm   | Average Return | Std. Dev. | Success Rate |
 | -------------- | ----------- | -------------- | --------- | ------------ |
@@ -24,7 +18,12 @@ Sucess definition:
 |                | PPO         | **874.59**     | 167.95    | **40%**      |
 |                | SAC         | 848.38 (sotch.)  | 145.29    | 30% (stoch.) |
 
-
+Trained during 500,000 timesteps for each
+Evaluated for 30 episodes 
+Sucess definition: 
+- Lunar Lander: reward > 200
+- Car Racing: reward > 900
+  
 ### LunarLander-v3 - Rainbow-DQN
 https://github.com/user-attachments/assets/2ee71215-b8a5-434f-863c-0aa7584517cb
 
