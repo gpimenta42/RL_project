@@ -18,7 +18,7 @@
 |                | PPO         | **874.59**     | 167.95    | **40%**      |
 |                | SAC         | 848.38 (sotch.)  | 145.29    | 30% (stoch.) |
 
-Trained during 500,000 timesteps for each
+Trained during 500,000 timesteps for each. <br>
 Evaluated for 30 episodes 
 Sucess definition: 
 - Lunar Lander: reward > 200
