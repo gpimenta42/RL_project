@@ -20,9 +20,10 @@
 
 Trained for 500,000 timesteps for each. <br>
 Evaluated for 30 episodes <br>
-Success definition: 
-- Lunar Lander: reward > 200
-- Car Racing: reward > 900
+
+Success Rate definition - proportion of episodes with reward over:  
+- Lunar Lander: > 200
+- Car Racing: > 900
   
 ### LunarLander-v3 - Rainbow-DQN
 https://github.com/user-attachments/assets/2ee71215-b8a5-434f-863c-0aa7584517cb
