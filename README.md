@@ -7,12 +7,11 @@
 - Victoria Goon, 20240550
   
 ### Results
+Trained during 500,000 timesteps for each
 
 | Environment    | Algorithm   | Average Return | Std. Dev. | Success Rate |
 | -------------- | ----------- | -------------- | --------- | ------------ |
 | **LunarLander-v3** |           |                |           |              |
-|                | Q-Learning  | -150.76        | 57.30     | 0%           |
-|                | SARSA       | -242.28        | 227.06    | 0%           |
 |                | DQN         | 195.57         | 71.07     | 67%          |
 |                | Rainbow-DQN | **262.36**     | 49.81     | **93%**      |
 |                | PPO         | 172.96         | 102.27    | 66.7%        |
