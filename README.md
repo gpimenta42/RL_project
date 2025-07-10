@@ -8,6 +8,11 @@
   
 ### Results
 Trained during 500,000 timesteps for each
+Evaluated for 30 episodes 
+Sucess definition: 
+- Lunar Lander: reward > 200
+- Car Racing: reward > 900
+
 
 | Environment    | Algorithm   | Average Return | Std. Dev. | Success Rate |
 | -------------- | ----------- | -------------- | --------- | ------------ |
