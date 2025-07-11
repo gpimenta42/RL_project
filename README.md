@@ -1,3 +1,5 @@
+CarRacing and LunarLander applications of Reinforcement Learning
+
 # Reinforcement Learning Project 
 
 - Alexandre Gonçalves, 20240738
