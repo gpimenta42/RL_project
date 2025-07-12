@@ -1,10 +1,10 @@
 # Reinforcement Learning Project 
 
-- Alexandre Gonçalves, 20240738
-- Gaspar Pereira, 20230984
-- João Henriques, 20240499
-- Rita Wang, 20240551
-- Victoria Goon, 20240550
+- Alexandre Gonçalves
+- Gaspar Pereira
+- João Henriques
+- Rita Wang
+- Victoria Goon
   
 ### Results
 
